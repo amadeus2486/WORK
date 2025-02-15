@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\FinalExam1\obj\Debug\net8.0\FinalExam1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\FinalExam1\obj\Debug\net8.0\FinalExam1.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\FinalExam1\obj\Debug\net8.0\FinalExam1.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\FinalExam1\obj\Debug\net8.0\FinalExam1.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\FinalExam1\bin\Debug\net8.0\FinalExam1.exe
+C:\Users\lenovo\source\repos\FinalExam1\bin\Debug\net8.0\FinalExam1.deps.json
+C:\Users\lenovo\source\repos\FinalExam1\bin\Debug\net8.0\FinalExam1.runtimeconfig.json
+C:\Users\lenovo\source\repos\FinalExam1\bin\Debug\net8.0\FinalExam1.dll
+C:\Users\lenovo\source\repos\FinalExam1\bin\Debug\net8.0\FinalExam1.pdb
+C:\Users\lenovo\source\repos\FinalExam1\obj\Debug\net8.0\FinalExam1.dll
+C:\Users\lenovo\source\repos\FinalExam1\obj\Debug\net8.0\refint\FinalExam1.dll
+C:\Users\lenovo\source\repos\FinalExam1\obj\Debug\net8.0\FinalExam1.pdb
+C:\Users\lenovo\source\repos\FinalExam1\obj\Debug\net8.0\FinalExam1.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\FinalExam1\obj\Debug\net8.0\ref\FinalExam1.dll
