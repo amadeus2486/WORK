@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml> 
+<web-app xmlns="http://java.sun.com/xml/ns/javaee" version="3.0">
+    <servlet>
+        <servlet-name>FormServlet</servlet-name>
+        <servlet-class>work5.FormServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>FormServlet</servlet-name>
+        <url-pattern>/FormServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>LoginServlet</servlet-name>
+        <servlet-class>work5.LoginServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>LoginServlet</servlet-name>
+        <url-pattern>/LoginServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>CircleServlet</servlet-name>
+        <servlet-class>work5.CircleServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>CircleServlet</servlet-name>
+        <url-pattern>/CircleServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>RegisterServlet</servlet-name>
+        <servlet-class>work5.RegisterServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>RegisterServlet</servlet-name>
+        <url-pattern>/RegisterServlet</url-pattern>
+    </servlet-mapping>
+
+	<filter>
+	    <filter-name>LogFilter</filter-name>
+	    <filter-class>work5.LogFilter</filter-class>
+	</filter>
+	<filter-mapping>
+	    <filter-name>LogFilter</filter-name>
+	    <url-pattern>/*</url-pattern>
+	</filter-mapping>
+	
+	<filter>
+	    <filter-name>IPFilter</filter-name>
+	    <filter-class>work5.IPFilter</filter-class>
+	</filter>
+	<filter-mapping>
+	    <filter-name>IPFilter</filter-name>
+	    <url-pattern>/*</url-pattern>
+	</filter-mapping>
+
+</web-app>
