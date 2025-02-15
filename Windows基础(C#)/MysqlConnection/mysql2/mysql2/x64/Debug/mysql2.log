@@ -1,0 +1,9 @@
+﻿  mysql2.cpp
+C:\Users\lenovo\source\repos\mysql2\mysql2.cpp(44,10): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+C:\Users\lenovo\source\repos\mysql2\mysql2.cpp(91,10): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+C:\Users\lenovo\source\repos\mysql2\mysql2.cpp(23,19): warning C4101: “sSno”: 未引用的局部变量
+C:\Users\lenovo\source\repos\mysql2\mysql2.cpp(22,11): warning C4101: “sName”: 未引用的局部变量
+C:\Users\lenovo\source\repos\mysql2\mysql2.cpp(24,14): warning C4101: “sAge”: 未引用的局部变量
+C:\Users\lenovo\source\repos\mysql2\mysql2.cpp(23,3): warning C4101: “sSex”: 未引用的局部变量
+C:\Users\lenovo\source\repos\mysql2\mysql2.cpp(22,28): warning C4101: “sDepart”: 未引用的局部变量
+  mysql2.vcxproj -> C:\Users\lenovo\source\repos\mysql2\x64\Debug\mysql2.exe

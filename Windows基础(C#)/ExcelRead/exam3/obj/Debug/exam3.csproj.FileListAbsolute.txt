@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\exam3\bin\Debug\exam3.exe.config
+C:\Users\lenovo\source\repos\exam3\bin\Debug\exam3.exe
+C:\Users\lenovo\source\repos\exam3\bin\Debug\exam3.pdb
+C:\Users\lenovo\source\repos\exam3\bin\Debug\Aspose.Cells.dll
+C:\Users\lenovo\source\repos\exam3\bin\Debug\Aspose.Cells.xml
+C:\Users\lenovo\source\repos\exam3\obj\Debug\exam3.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\exam3\obj\Debug\exam3.Form1.resources
+C:\Users\lenovo\source\repos\exam3\obj\Debug\exam3.Properties.Resources.resources
+C:\Users\lenovo\source\repos\exam3\obj\Debug\exam3.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\exam3\obj\Debug\exam3.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\exam3\obj\Debug\exam3.csproj.Up2Date
+C:\Users\lenovo\source\repos\exam3\obj\Debug\exam3.exe
+C:\Users\lenovo\source\repos\exam3\obj\Debug\exam3.pdb
