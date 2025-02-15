@@ -1,0 +1,60 @@
+C:\Users\wangl\Downloads\MutThreadDownLoadFile\Demo\bin\Debug\Demo.exe
+C:\Users\wangl\Downloads\MutThreadDownLoadFile\Demo\bin\Debug\Demo.pdb
+C:\Users\wangl\Downloads\MutThreadDownLoadFile\Demo\bin\Debug\DownLoadFile.dll
+C:\Users\wangl\Downloads\MutThreadDownLoadFile\Demo\bin\Debug\DownLoadFile.pdb
+C:\Users\wangl\Downloads\MutThreadDownLoadFile\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\wangl\Downloads\MutThreadDownLoadFile\Demo\obj\Debug\Demo.Form1.resources
+C:\Users\wangl\Downloads\MutThreadDownLoadFile\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\wangl\Downloads\MutThreadDownLoadFile\Demo\obj\Debug\Demo.csproj.GenerateResource.Cache
+C:\Users\wangl\Downloads\MutThreadDownLoadFile\Demo\obj\Debug\Demo.exe
+C:\Users\wangl\Downloads\MutThreadDownLoadFile\Demo\obj\Debug\Demo.pdb
+D:\Projects\DownLoadFile\Demo\obj\Debug\Demo.exe
+D:\Projects\DownLoadFile\Demo\obj\Debug\Demo.pdb
+D:\Projects\DownLoadFile\Demo\bin\Debug\Demo.exe
+D:\Projects\DownLoadFile\Demo\bin\Debug\Demo.pdb
+D:\Projects\DownLoadFile\Demo\bin\Debug\DownLoadFile.dll
+D:\Projects\DownLoadFile\Demo\bin\Debug\DownLoadFile.pdb
+D:\Projects\DownLoadFile\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+D:\Projects\DownLoadFile\Demo\obj\Debug\Demo.Form1.resources
+D:\Projects\DownLoadFile\Demo\obj\Debug\Demo.Properties.Resources.resources
+D:\Projects\DownLoadFile\Demo\obj\Debug\Demo.csproj.GenerateResource.Cache
+E:\code\VS222302\DownLoadFile\Demo\bin\Debug\Demo.exe.config
+E:\code\VS222302\DownLoadFile\Demo\bin\Debug\Demo.exe
+E:\code\VS222302\DownLoadFile\Demo\bin\Debug\Demo.pdb
+E:\code\VS222302\DownLoadFile\Demo\bin\Debug\DownLoadFile.dll
+E:\code\VS222302\DownLoadFile\Demo\bin\Debug\DownLoadFile.pdb
+E:\code\VS222302\DownLoadFile\Demo\obj\Debug\Demo.csproj.AssemblyReference.cache
+E:\code\VS222302\DownLoadFile\Demo\obj\Debug\Demo.csproj.SuggestedBindingRedirects.cache
+E:\code\VS222302\DownLoadFile\Demo\obj\Debug\Demo.Form1.resources
+E:\code\VS222302\DownLoadFile\Demo\obj\Debug\Demo.Properties.Resources.resources
+E:\code\VS222302\DownLoadFile\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+E:\code\VS222302\DownLoadFile\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+E:\code\VS222302\DownLoadFile\Demo\obj\Debug\Demo.csproj.CopyComplete
+E:\code\VS222302\DownLoadFile\Demo\obj\Debug\Demo.exe
+E:\code\VS222302\DownLoadFile\Demo\obj\Debug\Demo.pdb
+E:\教学\VS222302-desktop\DownLoadFile\Demo\bin\Debug\Demo.exe.config
+E:\教学\VS222302-desktop\DownLoadFile\Demo\bin\Debug\Demo.exe
+E:\教学\VS222302-desktop\DownLoadFile\Demo\bin\Debug\Demo.pdb
+E:\教学\VS222302-desktop\DownLoadFile\Demo\bin\Debug\DownLoadFile.dll
+E:\教学\VS222302-desktop\DownLoadFile\Demo\bin\Debug\DownLoadFile.pdb
+E:\教学\VS222302-desktop\DownLoadFile\Demo\obj\Debug\Demo.csproj.AssemblyReference.cache
+E:\教学\VS222302-desktop\DownLoadFile\Demo\obj\Debug\Demo.Form1.resources
+E:\教学\VS222302-desktop\DownLoadFile\Demo\obj\Debug\Demo.Properties.Resources.resources
+E:\教学\VS222302-desktop\DownLoadFile\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+E:\教学\VS222302-desktop\DownLoadFile\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+E:\教学\VS222302-desktop\DownLoadFile\Demo\obj\Debug\Demo.csproj.Up2Date
+E:\教学\VS222302-desktop\DownLoadFile\Demo\obj\Debug\Demo.exe
+E:\教学\VS222302-desktop\DownLoadFile\Demo\obj\Debug\Demo.pdb
+C:\Users\lenovo\Desktop\文件类\subject selection\windows程序设计\结题报告\DownLoadFile\Demo\bin\Debug\Demo.exe.config
+C:\Users\lenovo\Desktop\文件类\subject selection\windows程序设计\结题报告\DownLoadFile\Demo\bin\Debug\Demo.exe
+C:\Users\lenovo\Desktop\文件类\subject selection\windows程序设计\结题报告\DownLoadFile\Demo\bin\Debug\Demo.pdb
+C:\Users\lenovo\Desktop\文件类\subject selection\windows程序设计\结题报告\DownLoadFile\Demo\bin\Debug\DownLoadFile.dll
+C:\Users\lenovo\Desktop\文件类\subject selection\windows程序设计\结题报告\DownLoadFile\Demo\bin\Debug\DownLoadFile.pdb
+C:\Users\lenovo\Desktop\文件类\subject selection\windows程序设计\结题报告\DownLoadFile\Demo\obj\Debug\Demo.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\文件类\subject selection\windows程序设计\结题报告\DownLoadFile\Demo\obj\Debug\Demo.Form1.resources
+C:\Users\lenovo\Desktop\文件类\subject selection\windows程序设计\结题报告\DownLoadFile\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\lenovo\Desktop\文件类\subject selection\windows程序设计\结题报告\DownLoadFile\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\文件类\subject selection\windows程序设计\结题报告\DownLoadFile\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\文件类\subject selection\windows程序设计\结题报告\DownLoadFile\Demo\obj\Debug\Demo.csproj.Up2Date
+C:\Users\lenovo\Desktop\文件类\subject selection\windows程序设计\结题报告\DownLoadFile\Demo\obj\Debug\Demo.exe
+C:\Users\lenovo\Desktop\文件类\subject selection\windows程序设计\结题报告\DownLoadFile\Demo\obj\Debug\Demo.pdb

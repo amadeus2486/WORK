@@ -1,0 +1,28 @@
+C:\Users\wangl\Downloads\MutThreadDownLoadFile\DownLoadFile\bin\Debug\DownLoadFile.dll
+C:\Users\wangl\Downloads\MutThreadDownLoadFile\DownLoadFile\bin\Debug\DownLoadFile.pdb
+C:\Users\wangl\Downloads\MutThreadDownLoadFile\DownLoadFile\obj\Debug\DownLoadFile.csprojResolveAssemblyReference.cache
+C:\Users\wangl\Downloads\MutThreadDownLoadFile\DownLoadFile\obj\Debug\DownLoadFile.dll
+C:\Users\wangl\Downloads\MutThreadDownLoadFile\DownLoadFile\obj\Debug\DownLoadFile.pdb
+D:\Projects\DownLoadFile\DownLoadFile\bin\Debug\DownLoadFile.dll
+D:\Projects\DownLoadFile\DownLoadFile\bin\Debug\DownLoadFile.pdb
+D:\Projects\DownLoadFile\DownLoadFile\obj\Debug\DownLoadFile.csprojResolveAssemblyReference.cache
+D:\Projects\DownLoadFile\DownLoadFile\obj\Debug\DownLoadFile.dll
+D:\Projects\DownLoadFile\DownLoadFile\obj\Debug\DownLoadFile.pdb
+E:\code\VS222302\DownLoadFile\DownLoadFile\bin\Debug\DownLoadFile.dll
+E:\code\VS222302\DownLoadFile\DownLoadFile\bin\Debug\DownLoadFile.pdb
+E:\code\VS222302\DownLoadFile\DownLoadFile\obj\Debug\DownLoadFile.csproj.AssemblyReference.cache
+E:\code\VS222302\DownLoadFile\DownLoadFile\obj\Debug\DownLoadFile.csproj.CoreCompileInputs.cache
+E:\code\VS222302\DownLoadFile\DownLoadFile\obj\Debug\DownLoadFile.dll
+E:\code\VS222302\DownLoadFile\DownLoadFile\obj\Debug\DownLoadFile.pdb
+E:\教学\VS222302-desktop\DownLoadFile\DownLoadFile\bin\Debug\DownLoadFile.dll
+E:\教学\VS222302-desktop\DownLoadFile\DownLoadFile\bin\Debug\DownLoadFile.pdb
+E:\教学\VS222302-desktop\DownLoadFile\DownLoadFile\obj\Debug\DownLoadFile.csproj.AssemblyReference.cache
+E:\教学\VS222302-desktop\DownLoadFile\DownLoadFile\obj\Debug\DownLoadFile.csproj.CoreCompileInputs.cache
+E:\教学\VS222302-desktop\DownLoadFile\DownLoadFile\obj\Debug\DownLoadFile.dll
+E:\教学\VS222302-desktop\DownLoadFile\DownLoadFile\obj\Debug\DownLoadFile.pdb
+C:\Users\lenovo\Desktop\文件类\subject selection\windows程序设计\结题报告\DownLoadFile\DownLoadFile\bin\Debug\DownLoadFile.dll
+C:\Users\lenovo\Desktop\文件类\subject selection\windows程序设计\结题报告\DownLoadFile\DownLoadFile\bin\Debug\DownLoadFile.pdb
+C:\Users\lenovo\Desktop\文件类\subject selection\windows程序设计\结题报告\DownLoadFile\DownLoadFile\obj\Debug\DownLoadFile.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\文件类\subject selection\windows程序设计\结题报告\DownLoadFile\DownLoadFile\obj\Debug\DownLoadFile.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\文件类\subject selection\windows程序设计\结题报告\DownLoadFile\DownLoadFile\obj\Debug\DownLoadFile.dll
+C:\Users\lenovo\Desktop\文件类\subject selection\windows程序设计\结题报告\DownLoadFile\DownLoadFile\obj\Debug\DownLoadFile.pdb
